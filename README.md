@@ -15,3 +15,22 @@ In this paper, we propose a novel architecture referred to as ECGAN. Our model u
 ## Architecture
 
 ![ECGAN Architecture](model.png)
+
+## References
+
+> ```bibtex
+> @inproceedings{simone2023ecgan,
+>   title={ECGAN: Self-supervised generative adversarial network for electrocardiography},
+>   author={Simone, Lorenzo and Bacciu, Davide},
+>   booktitle={International Conference on Artificial Intelligence in Medicine},
+>   pages={276--280},
+>   year={2023},
+>   organization={Springer}
+> }
+>
+> @article{simone4884218ecg,
+>   title={Ecg Synthesis for Cardiac Arrhythmias: Integrating Self-Supervised Learning and Generative Adversarial Networks},
+>   author={Simone, Lorenzo and Bacciu, Davide and Gervasi, Vincenzo},
+>   journal={Available at SSRN 4884218}
+> }
+> ```
